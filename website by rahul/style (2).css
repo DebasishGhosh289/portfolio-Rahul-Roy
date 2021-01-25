@@ -1,0 +1,20 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+.nav-item {
+    font-size: 25px;
+    margin-left: 130px;
+    justify-content: center;
+    align-items: center;
+}
+.fa {
+    padding: 0px;
+    font-size: 30px;
+    width: 1000px;
+    text-align: center;
+    text-decoration: none;
+    margin: 100px 100px;
+  }
